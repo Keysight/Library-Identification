@@ -1,0 +1,6 @@
+pyelftools>=0.24
+editdistance>=0.3.1
+pathos>=0.2.0
+python-Levenshtein>=0.12.0
+argparse
+r2pipe
