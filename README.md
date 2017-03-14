@@ -2,7 +2,7 @@
 
 This is a research tool implementing several signature creation and comparison techniques for the purpose of identifying the version of shared library files and libraries contained in statically linked binaries.
 
-Information about the techniques and an analysis of their effectiveness for this purpose can be found in the associated paper and blogpost (links will be here soon).
+Information about the techniques and an analysis of their effectiveness for this purpose can be found in the [associated paper on arXiv](https://arxiv.org/abs/1703.00298).
 
 ## Disclaimer
 This code was written during a research internship project by me (Thomas Rinsma). It is not a Riscure product and Riscure does not support or maintain this code. Please feel free to make a pull request if you have something to contribute :)
